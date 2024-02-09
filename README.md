@@ -25,10 +25,16 @@ _Note_: InDesign is part of the Adobe Creative Cloud Suite. There are student di
   - We're using this for titles, headings, and subheadings
   - This is a free font from Google Fonts:
     - https://fonts.google.com/specimen/Roboto+Slab
+  - Weights used:
+    - Black (it's like super bold)
+    - Semibold
+    - Bold
 - **Monsterrat**
   - We're using this for all content text
   - Also a free font from Google Fonts:
     - https://fonts.google.com/specimen/Montserrat
+  - Weights used:
+    - Regular (this is weights good for paragraphs)
 
 _Note_: You need to download and install these fonts from the above links to be able to use them on your machine (and thus, also in the document).
 
@@ -55,3 +61,4 @@ _Note_: You need to download and install these fonts from the above links to be 
 
 - Use Adobe Express [Background Tool Remover](https://new.express.adobe.com/tools/remove-background) to remove the background from images and make the backgrounds transparent
 - The Github preview of our PDF looks a little weird than how the PDF actually renders when it's downloaded on your machine or printed
+- Font weights specify how thick the font should be
