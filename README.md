@@ -40,6 +40,8 @@ _Note_: You need to download and install these fonts from the above links to be 
 
 ## Colors Used
 
+I think it's good to the color as the hex value at first, then switch the color (the swatch in InDesign) to be CYMK and not RGB, to ensure the colors print nicely.
+
 | Hex Code | Preview | Use Case |
 |:--:|:--:|:--:|
 |`#084887`|<a href='#'><img valign='middle' src='https://readme-swatches.vercel.app/084887'/></a>|• Titles <br>• Main Section Names (Heading 1s) <br>• Page Number Backgrounds|
@@ -62,3 +64,5 @@ _Note_: You need to download and install these fonts from the above links to be 
 - Use Adobe Express [Background Tool Remover](https://new.express.adobe.com/tools/remove-background) to remove the background from images and make the backgrounds transparent
 - The Github preview of our PDF looks a little weird than how the PDF actually renders when it's downloaded on your machine or printed
 - Font weights specify how thick the font should be
+- Make sure page elements (like backgrounds or squares) that should be at the end of the paper when printed are pulled back to the bleed point in the InDesign file. [Refer to this video](https://www.youtube.com/watch?v=LiH25pgfN4E).
+- Make sure colors are in CYMK so they print properly.
