@@ -9,7 +9,7 @@ I figure git is a good place to store it because git maintains a version history
 ## Use This As A Template
 Feel free to make a template out of this for future seasons!
 
-**My recommendation is every season we should create a Google Doc for the portfolio.** We use Google Doc as a way to write up all the content that will go in our engineering portfolio.
+**My recommendation is that every season we still should create a Google Doc.** We can use Google Docs as a way to write up all the content that will go in our engineering portfolio.
 
 After the content is written / planned, then we use InDesign to make it pretty. InDesign is only good to make documents look pretty; it's a bad program to plan out what content you're going to write because: 1) it's not easily collaborative (can't have multiple people working at once), and 2) content doesn't flow from page-to-page. You set all the content, and how it's placed and looks, on each page manually.
 
