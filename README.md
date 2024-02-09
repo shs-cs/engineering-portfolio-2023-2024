@@ -59,10 +59,14 @@ I think it's good to the color as the hex value at first, then switch the color 
 - `README.md` - The file you're reading now (: (probably reading it through Github)
 - `~2024 engineering port~16())2.idlk` - Anything that ends in `.idlk` is a temporary file that's present while you have an InDesign document open on your computer. It's basically junk, but probably best to not delete it manually because InDesign will probably handle that when you close the program.
 
-## Notes
+## Notes and **Neccessary** Settings
 
 - Use Adobe Express [Background Tool Remover](https://new.express.adobe.com/tools/remove-background) to remove the background from images and make the backgrounds transparent
 - The Github preview of our PDF looks a little weird than how the PDF actually renders when it's downloaded on your machine or printed
 - Font weights specify how thick the font should be
 - Make sure page elements (like backgrounds or squares) that should be at the end of the paper when printed are pulled back to the bleed point in the InDesign file. [Refer to this video](https://www.youtube.com/watch?v=LiH25pgfN4E).
 - Make sure colors are in CYMK so they print properly.
+- Should Export from File -> Adobe PDF Presets -> [Press Quality...]
+  - Under "Marks and Bleeds", select "Use Document Bleed Settings". Then export
+- When printing, make sure the paper size is 8.5 x 11 US Borderless
+- Make sure when you go to print, that under the print settings that "Scale to Fit" is **not** selected. You want to "Fill Entire Page"
