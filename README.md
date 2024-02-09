@@ -53,4 +53,5 @@ _Note_: You need to download and install these fonts from the above links to be 
 
 ## Notes
 
+- Use Adobe Express [Background Tool Remover](https://new.express.adobe.com/tools/remove-background) to remove the background from images and make the backgrounds transparent
 - The Github preview of our PDF looks a little weird than how the PDF actually renders when it's downloaded on your machine or printed
